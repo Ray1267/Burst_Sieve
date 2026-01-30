@@ -4,3 +4,8 @@ dist/
 build/
 *.pyc
 __pycache__/
+git rm -r --cached BurstSieve.app
+git rm -r --cached dist/
+git rm -r --cached build/
+
+
